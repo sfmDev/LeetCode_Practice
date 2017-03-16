@@ -1,7 +1,8 @@
 # LeetCode_Practice
-My private practice for leetcode with Swift and Python
-###Two Sum
-###ZiaZag Conversion
-###Reverse Integer
-###Palindromo Number
-###Roman to Integer
+My private practice for leetcode with Swift and Python</br>
+---
+Two Sum</br>
+ZiaZag Conversion</br>
+Reverse Integer</br>
+Palindromo Number</br>
+Roman to Integer</br>
