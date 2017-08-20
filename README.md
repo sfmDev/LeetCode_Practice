@@ -14,3 +14,5 @@ Implement strStr</br>
 Merge Two Sorted Lists</br>
 Search Insert Position</br>
 Length of Last Word</br>
+Same Tree</br>
+Minimum Depth of Binary Tree</br>
